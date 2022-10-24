@@ -90,8 +90,8 @@ Hi, I'm Kerstin Frailey.  I whipped up this package quickly to make my life a bi
 
 Here's the repo info:
 
-+ code 
-+ issues 
++ code https://github.com/kefrailey/jupyckage
++ issues https://github.com/kefrailey/jupyckage/issues
 
 Here's my contact info:
 
