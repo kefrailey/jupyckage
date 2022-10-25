@@ -56,8 +56,8 @@ With no consensus on directory structure for packages, I defaulted to a version 
     │   └── <notebook_name>/
     │       ├── __init__.py
     │       └── <notebook_name>.py  # what you'll be importing
-    ├── bin/
-    │   └── <notebook_name>.py #executable
+    └── bin/
+        └── <notebook_name>.py #executable
 
 I realize the import statement is hefty, but I didn't want to handle collissions in a VO.
 
