@@ -1,6 +1,6 @@
 [project]
 name = "jupyckage"
-version = "0.1.4"
+version = "0.1.5"
 authors = [
   { name="Kerstin Frailey", email="frailey.work@gmail.com" },
 ]

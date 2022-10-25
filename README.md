@@ -17,6 +17,8 @@ This is very helpful when producing the same graph, running the same ETL, or exe
 You can run this **in** <your_notebook.ipynb> or anywhere else in the same directory
 
 ```
+from jupyckage.jupyckage import notebook_to_package
+
 notebook_to_package("notebook_name.ipynb")
 ```
 
